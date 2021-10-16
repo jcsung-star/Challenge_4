@@ -1,6 +1,6 @@
 # Module_4_Challenge
 
-This python project contains data preparation, analysis, and visualizations for key risk and return metrics. 
+This python project contains data preparation, analysis, and visualizations for key risk and return metrics to compare the S&P 500 to four other portfolios. The project will calculate risk and return metrics, like the daily returns, standard deviation, and beta. It will also identify the portfolio with the best risk-and-return profile in this project.
 
 ---
 
@@ -14,6 +14,7 @@ This project leverages python 3.7 with the following packages:
 
 * [jupyterlab]JupyterLab at: jupyterlab.readthedocs.io/en/stable/ - For creation and running of programs using Python 
 
+
 Go to your terminal or git bash and run conda activate dev to activate your conda dev environment. 
 You will then install the following librarie(s) and module(s) to run in Python codes you create.
 Install pandas by...
@@ -26,8 +27,7 @@ Numpy
 
 ## Usage
 
-Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the crypto_arbitrage.ipynb in you Jupyter Lab Notebook.
-
+Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the risk_return_analysis.ipynb in you Jupyter Lab Notebook.
 
 ---
 
