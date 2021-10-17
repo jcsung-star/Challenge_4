@@ -26,6 +26,12 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ---
 
 ## Sample Visualization and Metrics
+
+Metrics and sample code
+![image](https://user-images.githubusercontent.com/87351302/137637310-c0a810ff-f436-4713-8276-5c48f7b32072.png)
+![image](https://user-images.githubusercontent.com/87351302/137637339-c4a50103-377b-4585-ace8-ff85846a7d75.png)
+
+Sample Visualization
 ![image](https://user-images.githubusercontent.com/87351302/137637231-7ba0c51b-5011-481b-aeaa-e48247866d21.png)
 ![image](https://user-images.githubusercontent.com/87351302/137637194-6af2cae7-ee4b-4ab8-b736-2bf489687d91.png)
 ![image](https://user-images.githubusercontent.com/87351302/137637169-8bbf102d-1fd6-4403-9c63-6b4a6fef2caa.png)
