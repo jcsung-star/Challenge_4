@@ -1,6 +1,6 @@
 # Module_4_Challenge
 
-This python project contains data preparation, analysis, and visualizations for key risk and return metrics to compare the S&P 500 to four other portfolios. The project will calculate risk and return metrics, like the daily returns, standard deviation, and beta. It will also identify the portfolio with the best risk-and-return profile in this project.
+This python project contains data preparation, analysis, and visualizations for key risk and return metrics to compare the S&P 500 to four other portfolios. The project will calculate risk and return metrics, like the daily returns, standard deviation, sharpe ratio and beta. It will provide the ability to identify the most appropriate risk-and-return portfolio to invest in.
 
 ---
 
