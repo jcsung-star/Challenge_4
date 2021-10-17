@@ -17,13 +17,7 @@ This project leverages python 3.7 with the following packages:
 
 Go to your terminal or git bash and run conda activate dev to activate your conda dev environment. 
 You will then install the following librarie(s) and module(s) to run in Python codes you create.
-Install pandas by...
-    conda install pandas
-    or       
-    pip install pandas
-
-Pathlib
-Numpy
+Install pandas by conda install pandas or pip install pandas. Pathlib and Numpy should be ready to install in your code. 
 
 ## Usage
 
