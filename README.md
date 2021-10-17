@@ -12,7 +12,7 @@ This project leverages python 3.7 with the following packages:
 
 * [anaconda]Anaconda at: https://docs.anaconda.com/anaconda/install/ - For install directions for Anaconda in order to use Jupyter Lab
 
-* [jupyterlab]JupyterLab at: jupyterlab.readthedocs.io/en/stable/ - For creation and running of programs using Python 
+* [jupyterlab]JupyterLab at: https://jupyterlab.readthedocs.io/en/stable/ - For creation and running of programs using Python 
 
 
 Go to your terminal or git bash and run conda activate dev to activate your conda dev environment. 
