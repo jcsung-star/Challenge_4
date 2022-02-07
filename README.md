@@ -1,10 +1,27 @@
-# Risk Return Anaysis
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Risk%20Return%20Analysis%20&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[John Sung](https://linkedin.com/in/john-sung-3675569) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569/)                                                            
+
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Sample Visualization and Metrics](#Sample-Visualization-and-Metrics)
+* [License](#license)
+
+
+# Overview
 
 This python project contains data preparation, analysis, and visualizations for key risk and return metrics to compare the S&P 500 to four other portfolios. The project will calculate risk and return metrics, like the daily returns, standard deviation, sharpe ratio and beta. It will provide the ability to identify the most appropriate risk-and-return portfolio to invest in.
 
 ---
 
-## Technologies
+## Requirements
 
 This project leverages python 3.7 with the following packages:
  
@@ -39,10 +56,6 @@ Sample Visualization
 ![image](https://user-images.githubusercontent.com/87351302/137637125-e364a944-ea29-4973-be7b-6a6edbeda5ed.png)
 ![image](https://user-images.githubusercontent.com/87351302/137637079-b0213d82-e25c-4339-aa08-e679646152e6.png)
 ![image](https://user-images.githubusercontent.com/87351302/137637045-134936a0-8306-4585-91f3-2766a20268f7.png)
-
-## Contributors
-
-linkedin.com/in/john-sung-3675569
 
 ---
 
